@@ -1,1 +1,1 @@
-<h1>Sistem Penilaian Kinerja Pegawai dengan menggunakan Fuzzy Sugeno</h1>
+<h1>Sistem Penilaian Kinerja Pegawai dengan menggunakan Fuzzy Tsukamoto</h1>
